@@ -1,0 +1,3 @@
+Get case status based on receipt number
+
+./get_case_status -r WACXXXXXXXXXX
