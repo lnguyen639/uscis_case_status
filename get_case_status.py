@@ -1,4 +1,7 @@
 #!/usr/local/bin/python2.7
+#Ref: http://docs.python-guide.org/en/latest/scenarios/scrape/
+#Ref: https://stackoverflow.com/questions/13147914/how-to-simulate-http-post-request-using-python-requests-module
+
 import requests
 from lxml import html
 import argparse

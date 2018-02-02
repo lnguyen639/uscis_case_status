@@ -1,3 +1,7 @@
 Get case status based on receipt number
 
 ./get_case_status -r WACXXXXXXXXXX
+
+Example output:
+./get_case_status.py -r WACXXXXXXXXXX
+['On November 16, 2017, we updated your name for your Form I-129, Petition for a Nonimmigrant Worker, Receipt Number WACXXXXXXXXXX. If you move, go to ', ' to give us your new mailing address.']
